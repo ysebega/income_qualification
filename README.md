@@ -1,1 +1,2 @@
+# Income Qualification
 This project is about improving the lives of the poorest in the population. Social programs find it hard to channels enough aid to the right people. Thru an algorithm called Proxy Means Test (PMT), Latin America verifies income qualification. Our main task is answer questions related the household head, level of poverty in the communities, and using random forest, predict and verify accuracy of our model.
